@@ -1,0 +1,6 @@
+openpyxl
+gspread
+matplotlib.pyplot
+pandas
+oauth2client.service_account
+io
