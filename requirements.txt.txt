@@ -1,6 +1,6 @@
 openpyxl
 gspread
-matplotlib.pyplot
+matplotlib
 pandas
-oauth2client.service_account
+oauth2client
 io
