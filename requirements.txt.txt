@@ -1,6 +1,0 @@
-openpyxl
-gspread
-matplotlib
-pandas
-oauth2client
-io
